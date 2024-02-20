@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import { FaTrash, FaEdit } from "react-icons/fa";
 
 export default function Home() {
-  var url = "https://main--courageous-conkies-0aba18.netlify.app:4100/";
+  var url = "https://main--mellifluous-fudge-d36415.netlify.app/";
 
   function submitform(event) {
     event.preventDefault();
