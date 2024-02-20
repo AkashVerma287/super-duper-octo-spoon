@@ -39,7 +39,7 @@ export default function Home() {
 
   useEffect(() => {
     fetchformdata();
-  }, [search]);
+  });
 
   function deleteuser(x) {
     axios
